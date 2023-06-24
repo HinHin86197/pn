@@ -2,7 +2,7 @@
   "name": "pn_mylove",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/HinHin86197/pn",
+  "homepage": "https://github.com/HinHin86197/pn/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
